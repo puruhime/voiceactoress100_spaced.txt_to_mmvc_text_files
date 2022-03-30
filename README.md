@@ -4,4 +4,4 @@
 分割結果も合わせてコミットしてあります。  
 # ライセンス 
 コード : MITライセンス  
-出力されたテキスト : CC BY-SA 4.0([声優統計コーパス](https://voice-statistics.github.io/)由来なので、ライセンスが継承されます)  
+リポジトリのtxtファイル : CC BY-SA 4.0([声優統計コーパス](https://voice-statistics.github.io/)由来なので、ライセンスが継承されます)  
